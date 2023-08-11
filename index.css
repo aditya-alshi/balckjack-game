@@ -1,0 +1,32 @@
+body{
+    width: 25%;
+    margin: auto;
+    background-image: url(images/Background_green_icon.png);
+    background-size: cover;
+    text-align: center;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color: goldenrod;
+    font-weight: bold;
+    font-size: 60px;
+    text-shadow:1px 2px rgb(61, 61, 61) ;
+}
+
+button{
+    font-size: 20px;
+    font-weight: bold;
+    width: 50%;
+    color: darkgreen;
+    background: goldenrod;
+    padding: 5px;
+    margin-top: 4px;
+    /* border: 0px solid goldenrod; */
+    border-radius: 4px;
+}
+p{
+    color: white;
+    font-size: 25px;
+}
